@@ -13,3 +13,4 @@ It does not require a GPU.
 It does not use transformers.
 
 It is not ashamed of its mistakes.
+Colab: https://colab.research.google.com/drive/1xQzp1eKwJbiauW58AmCYy-YooDNvzoTh?usp=sharing
